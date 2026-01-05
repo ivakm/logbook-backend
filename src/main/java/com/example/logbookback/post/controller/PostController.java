@@ -26,3 +26,4 @@ public class PostController {
         return postService.getAll();
     }
 }
+
